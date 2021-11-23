@@ -1,0 +1,121 @@
+*{  
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(#FEF5E7,#D6EAF8);
+    width: 1200px;
+    margin: 0 auto;
+    border: 5px  #85929E;
+    box-shadow:1px 5px 25px #000;
+
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    background: #F7DC6F;
+    height: 80px;  
+}
+
+nav ul li a:hover{   
+    color: #873600;
+    background: #AED6F1;
+    box-shadow: 0 0 0 #000;
+}
+
+nav ul li a{
+    text-decoration: none; 
+    color: #000;
+    background:#FDF2E9;
+    line-height: 80px;
+    padding: 7px;
+    margin-right: 20px;
+    border-radius: 5px;
+    box-shadow:5px 5px 5px #D6EAF8; 
+}
+
+nav ul li{
+    display: inline; 
+    list-style: none;  
+}
+
+section{
+    padding:0 20px 20px;
+}
+
+footer p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+a{
+    background-color: #F7DC6F;
+
+}
+
+p{
+    text-align: justify;
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+}
+
+img{
+    border: 2px solid #D5DBDB;
+    border-radius: 15px;
+}
+
+.menu{
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 30px;
+}
+.primeraimg{
+    height: 500px;
+    width: 900px;
+}
+
+.segundaimg{
+    height: 500px;
+    width: 900px;
+}
+
+.tercerimg{
+    float: left;
+    margin-right: 15px;
+    height: 250px;
+    width:  400px;
+}
+
+.cuartaimg{
+    float: left;
+    margin-right: 15px;
+    height: 300px;
+    width: 500px;
+}
+
+.quintaimg{
+    height: 500px;
+    width: 900px;
+}
+
+.sextaimg{
+    height: 400px;
+    width: 600px;
+}
+
+.septimaimg{
+    float: right;
+    margin-left: 15px;
+    height: 250px;
+    width: 300px;
+}
+ol{
+    text-align: center, justify;
+    background-color: #F7DC6F;
+}
